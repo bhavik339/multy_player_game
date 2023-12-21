@@ -1,3 +1,7 @@
+//multy player games and Add Text
+
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -148,7 +152,7 @@ public class PlayerController : NetworkBehaviour
 
 
 
-
+//simple multy player games code
 
 
 // using System.Collections;
